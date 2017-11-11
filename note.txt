@@ -1,0 +1,38 @@
+//  Cai dat tren window
+Cài đặt NodeJs:
+
+//  Cai dat tren window
+
+choco install nodejs
+
+// Cài đặt Git
+
+choco install git
+
+//  solc
+
+ npm install -g solc
+
+// install ethereumjs-testrpc
+
+npm install -g ethereumjs-testrpc
+
+// install truffle
+
+npm install -g truffle
+
+// Chay lenh  + http://truffleframework.com/boxes/ ten app demo
+
+truffle unbox metacoin
+
+//  chay lenh
+
+testrpc
+
+// chay lenh 
+
+truffle develop
+
+// chay ngay sau khi console mo ra
+
+truffle deploy --reset
